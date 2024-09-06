@@ -3,7 +3,6 @@
 #include <time.h>
 #include <stdbool.h>
 
-//Método não eficiente, lento, estudado para desenvolvimento de raciocínio
 void bubbleSort(int *vetor, size_t tamanhoVetor) {
     int aux, j, temp;
 
